@@ -1,0 +1,171 @@
+[
+      {
+        "id": "1",
+        "question":"What's the name of the 'girl from the copy place'?",
+        "image": "f1.jpg",
+        "correct": 2,
+        "answers": [
+            {
+              "id": "1",
+              "answer": "Kathy"
+            },
+            {
+              "id": "2",
+              "answer": "Chloe"
+            },
+            {
+              "id": "3",
+              "answer": "Janice"
+            },
+            {
+              "id": "4",
+              "answer": "Judy"
+            }
+          ]
+      },
+      {
+          "id": "2",
+          "question":"Which game did Chandler make up to make Joey purposely win money from him?",
+          "image": "f2.jpg",
+          "correct": 2,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Extreme Poker"
+              },
+              {
+                  "id": "2",
+                  "answer": "Cups"
+              },
+              {
+                  "id": "3",
+                  "answer": "Fireball"
+              },
+              {
+                  "id": "4",
+                  "answer": "Bamboozled"
+              }
+          ]
+      },
+      {
+          "id": "3",
+          "question": "What is Ross's occupation?",
+          "image": "fr.jpg",
+          "correct": 4,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Actor"
+              },
+              {
+                  "id": "2",
+                  "answer": "Surgeon"
+              },
+              {
+                  "id": "3",
+                  "answer": "Anthropologist"
+              },
+              {
+                  "id": "4",
+                  "answer": "Paleontologist"
+              }
+          ]
+      },
+      {
+          "id": "4",
+          "image": "fp.jpg",
+          "question": "What is Pheobe's twin sister's name?",
+          "correct": 1,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Ursula"
+              },
+              {
+                  "id": "2",
+                  "answer": "She does not have a twin"
+              },
+              {
+                  "id": "3",
+                  "answer": "Janice"
+              },
+              {
+                  "id": "4",
+                  "answer": "Amy"
+              }
+          ]
+      },
+      {
+          "id": "5",
+          "image": "f115.jpg",
+          "question": "What TV show is Phoebe's doctor obessed with?",
+          "correct": 3,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Howard"
+              },
+              {
+                  "id": "2",
+                  "answer": "Marion"
+              },
+              {
+                  "id": "3",
+                  "answer": "Fonzie"
+              },
+              {
+                  "id": "4",
+                  "answer": "Archie Andrews"
+              }
+          ]
+      },
+      {
+          "id": "6",
+          "image": "f6.jpg",
+          "question": "What was the cause of fire in Pheobe and Rachel's apartment?",
+          "correct": 3,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Rachel's curling iron"
+              },
+              {
+                  "id": "2",
+                  "answer": "Pheobe's candles"
+              },
+              {
+                  "id": "3",
+                  "answer": "Racheal's hair straightner"
+              },
+              {
+                  "id": "4",
+                  "answer": "Phoebe left the stove running"
+              }
+          ]
+      },
+      {
+          "id": "7",
+          "image": "f7.jpg",
+          "question": "What is Ross's nickname for himeself when he gets extremely worked up'?",
+          "correct": 4,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Angry Ross"
+              },
+              {
+                  "id": "2",
+                  "answer": "Raging Ross"
+              },
+              {
+                  "id": "3",
+                  "answer": "Geller Yeller"
+              },
+              {
+                  "id": "4",
+                  "answer": "Red Ross"
+              }
+          ]
+      }
+
+]

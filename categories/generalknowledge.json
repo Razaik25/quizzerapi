@@ -1,0 +1,172 @@
+[
+      {
+        "id": "1",
+        "question":"What is added to iron to make it steel?",
+        "image": "gk1.jpg",
+        "correct": 4,
+        "answers": [
+            {
+              "id": "1",
+              "answer": "Aluminium"
+            },
+            {
+              "id": "2",
+              "answer": "Cooper"
+            },
+            {
+              "id": "3",
+              "answer": "Zinc"
+            },
+            {
+              "id": "4",
+              "answer": "Carbon"
+            }
+          ]
+      },
+      {
+          "id": "2",
+          "question":"What is the word missing the title of famous novel 'Love in the time of _____'?",
+          "image": "gk2.jpg",
+          "correct": 3,
+          "answers": [
+
+              {
+                  "id": "1",
+                  "answer": "Malaria"
+              },
+              {
+                  "id": "2",
+                  "answer": "Typhoid"
+              },
+              {
+                  "id": "3",
+                  "answer": "Cholera"
+              },
+              {
+                  "id": "4",
+                  "answer": "Polio"
+              }
+          ]
+      },
+      {
+          "id": "3",
+          "question": "What's the name of the triangle with no equal sides?",
+          "image": "gk3.jpg",
+          "correct": 2,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Equilateral"
+              },
+              {
+                  "id": "2",
+                  "answer": "Scalene"
+              },
+              {
+                  "id": "3",
+                  "answer": "Isosceles"
+              },
+              {
+                  "id": "4",
+                  "answer": "Right Triangle"
+              }
+          ]
+      },
+      {
+          "id": "4",
+          "image": "gk4.jpg",
+          "question": "This is the flag of which country?",
+          "correct": 1,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Ireland "
+              },
+              {
+                  "id": "2",
+                  "answer": "Cote d'Ivoire"
+              },
+              {
+                  "id": "3",
+                  "answer": "Hungary"
+              },
+              {
+                  "id": "4",
+                  "answer": "Costa Rica"
+              }
+          ]
+      },
+      {
+          "id": "5",
+          "image": "gk5.jpg",
+          "question": "Grand Central Terminal in  New York is the world's?",
+          "correct": 1,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Largest railway station"
+              },
+              {
+                  "id": "2",
+                  "answer": "Busiest railway station"
+              },
+              {
+                  "id": "3",
+                  "answer": "Highest railway station"
+              },
+              {
+                  "id": "4",
+                  "answer": "Oldest railway station"
+              }
+          ]
+      },
+      {
+          "id": "6",
+          "image": "gk6.jpg",
+          "question": "What is the currency of India and Pakistan as well as a few other Asian countries?",
+          "correct": 2,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Yen"
+              },
+              {
+                  "id": "2",
+                  "answer": "Rupee"
+              },
+              {
+                  "id": "3",
+                  "answer": "Taka"
+              },
+              {
+                  "id": "4",
+                  "answer": "Peso"
+              }
+          ]
+      },
+      {
+          "id": "7",
+          "image": "gk7.jpg",
+          "question": "In a standard deck of cards, which king is the only one to not have a moustache?",
+          "correct": 4,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "King of Spades"
+              },
+              {
+                  "id": "2",
+                  "answer": "King of Clubs"
+              },
+              {
+                  "id": "3",
+                  "answer": "King of Diamonds"
+              },
+              {
+                  "id": "4",
+                  "answer": "King of Hearts"
+              }
+          ]
+      }
+
+]
