@@ -2,7 +2,7 @@
       {
         "id": "1",
         "question":"What's the name of the 'girl from the copy place'?",
-        "image": "f1.jpg",
+        "image": "fren1.jpg",
         "correct": 2,
         "answers": [
             {
@@ -26,7 +26,7 @@
       {
           "id": "2",
           "question":"Which game did Chandler make up to make Joey purposely win money from him?",
-          "image": "f2.jpg",
+          "image": "fren2.jpg",
           "correct": 2,
           "answers": [
               {
@@ -50,7 +50,7 @@
       {
           "id": "3",
           "question": "What is Ross's occupation?",
-          "image": "fr.jpg",
+          "image": "fren3.jpg",
           "correct": 4,
           "answers": [
               {
@@ -73,7 +73,7 @@
       },
       {
           "id": "4",
-          "image": "fp.jpg",
+          "image": "fren4.jpg",
           "question": "What is Pheobe's twin sister's name?",
           "correct": 1,
           "answers": [
@@ -97,8 +97,8 @@
       },
       {
           "id": "5",
-          "image": "f115.jpg",
-          "question": "What TV show is Phoebe's doctor obessed with?",
+          "image": "fren5.jpg",
+          "question": "What TV character is Phoebe's doctor obessed with?",
           "correct": 3,
           "answers": [
               {
@@ -121,7 +121,7 @@
       },
       {
           "id": "6",
-          "image": "f6.jpg",
+          "image": "fren6.jpg",
           "question": "What was the cause of fire in Pheobe and Rachel's apartment?",
           "correct": 3,
           "answers": [
@@ -145,7 +145,7 @@
       },
       {
           "id": "7",
-          "image": "f7.jpg",
+          "image": "fren7.jpg",
           "question": "What is Ross's nickname for himeself when he gets extremely worked up'?",
           "correct": 4,
           "answers": [
