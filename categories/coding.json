@@ -50,7 +50,7 @@
       },
       {
           "id": "3",
-          "question": "what does css stand for?",
+          "question": "What does css stand for?",
           "image": "coding3.jpg",
           "correct": 3,
           "answers": [

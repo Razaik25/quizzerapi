@@ -2,7 +2,7 @@
       {
         "id": "1",
         "question":"What is Canada's National Animal?",
-        "image": "canadaa1.jpg",
+        "image": "can1.jpg",
         "correct": 1,
         "answers": [
             {
@@ -26,7 +26,7 @@
       {
           "id": "2",
           "question":"Which of these sports was invented in Canada?",
-          "image": "canada2.jpg",
+          "image": "can2.jpg",
           "correct": 3,
           "answers": [
               {
@@ -50,7 +50,7 @@
       {
           "id": "3",
           "question": "Toronto is a city in which Canadian Province?",
-          "image": "ct3.jpg",
+          "image": "can3.jpg",
           "correct": 4,
           "answers": [
               {
@@ -73,7 +73,7 @@
       },
       {
           "id": "4",
-          "image": "canada4.jpg",
+          "image": "can4.jpg",
           "question": "What is the color of $20 dollar bill?",
           "correct": 3,
           "answers": [
@@ -97,7 +97,7 @@
       },
       {
           "id": "5",
-          "image": "canada5.jpg",
+          "image": "can5.jpg",
           "question": "What does CN stand for in CN tower?",
           "correct": 2,
           "answers": [
@@ -121,7 +121,7 @@
       },
       {
           "id": "6",
-          "image": "canadaa6.jpg",
+          "image": "can6.jpg",
           "question": "Which Canadian Province produces most oil?",
           "correct": 1,
           "answers": [
@@ -145,7 +145,7 @@
       },
       {
           "id": "7",
-          "image": "canadaa7.jpg",
+          "image": "can7.jpg",
           "question": "Which city is refered as 'The City of Hundred Bell Towers'?",
           "correct": 2,
           "answers": [
