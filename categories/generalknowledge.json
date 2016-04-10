@@ -2,7 +2,7 @@
       {
         "id": "1",
         "question":"What is added to iron to make it steel?",
-        "image": "gk1.jpg",
+        "image": "gf1.jpg",
         "correct": 4,
         "answers": [
             {
@@ -26,7 +26,7 @@
       {
           "id": "2",
           "question":"What is the word missing the title of famous novel 'Love in the time of _____'?",
-          "image": "gk2.jpg",
+          "image": "gf2.jpg",
           "correct": 3,
           "answers": [
 
@@ -51,7 +51,7 @@
       {
           "id": "3",
           "question": "What's the name of the triangle with no equal sides?",
-          "image": "gk3.jpg",
+          "image": "gf3.jpg",
           "correct": 2,
           "answers": [
               {
@@ -74,7 +74,7 @@
       },
       {
           "id": "4",
-          "image": "gk4.jpg",
+          "image": "gf4.jpg",
           "question": "This is the flag of which country?",
           "correct": 1,
           "answers": [
@@ -98,7 +98,7 @@
       },
       {
           "id": "5",
-          "image": "gk5.jpg",
+          "image": "gf5.jpg",
           "question": "Grand Central Terminal in  New York is the world's?",
           "correct": 1,
           "answers": [
@@ -122,7 +122,7 @@
       },
       {
           "id": "6",
-          "image": "gk6.jpg",
+          "image": "gf6.jpg",
           "question": "What is the currency of India and Pakistan as well as a few other Asian countries?",
           "correct": 2,
           "answers": [
@@ -146,7 +146,7 @@
       },
       {
           "id": "7",
-          "image": "gk7.jpg",
+          "image": "gf7.jpg",
           "question": "In a standard deck of cards, which king is the only one to not have a moustache?",
           "correct": 4,
           "answers": [
