@@ -167,6 +167,174 @@
                   "answer": "Thailand"
               }
           ]
+      },
+      {
+          "id": "8",
+          "image": "random8.jpg",
+          "question": "What is a cat?",
+          "correct": 2,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "a dog"
+              },
+              {
+                  "id": "2",
+                  "answer": "a cat"
+              },
+              {
+                  "id": "3",
+                  "answer": "a bird"
+              },
+              {
+                  "id": "4",
+                  "answer": "me"
+              }
+          ]
+      },
+      {
+          "id": "9",
+          "image": "random9.jpg",
+          "question": "WOW?",
+          "correct":3,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "dont click"
+              },
+              {
+                  "id": "2",
+                  "answer": "don't click"
+              },
+              {
+                  "id": "3",
+                  "answer": "Click Me"
+              },
+              {
+                  "id": "4",
+                  "answer": "I am confused!!"
+              }
+          ]
+      },
+      {
+          "id": "10",
+          "image": "random10.jpg",
+          "question": "Which of these is not a Social Media Site?",
+          "correct": 4,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Facebook"
+              },
+              {
+                  "id": "2",
+                  "answer": "Instagram"
+              },
+              {
+                  "id": "3",
+                  "answer": "Twitter"
+              },
+              {
+                  "id": "4",
+                  "answer": "Wikipedia"
+              }
+          ]
+      },
+      {
+          "id": "11",
+          "image": "random11.jpg",
+          "question": "Pickachu is character from which show?",
+          "correct": 2,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Dragon Ball Z"
+              },
+              {
+                  "id": "2",
+                  "answer": "Pokemon"
+              },
+              {
+                  "id": "3",
+                  "answer": "Dora"
+              },
+              {
+                  "id": "4",
+                  "answer": "Cinderalla"
+              }
+          ]
+      },
+      {
+          "id": "12",
+          "image": "random12.jpg",
+          "question": "What does xoxoxo mean?",
+          "correct": 3,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "I don't know"
+              },
+              {
+                  "id": "2",
+                  "answer": "I don't like you"
+              },
+              {
+                  "id": "3",
+                  "answer": "Hugs and Kisses"
+              },
+              {
+                  "id": "4",
+                  "answer": "You are weird"
+              }
+          ]
+      },
+      {
+          "id": "13",
+          "image": "random13.jpg",
+          "question": "What is Draco Malfoy's middle name?",
+          "correct": 1,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Lucius"
+              },
+              {
+                  "id": "2",
+                  "answer": "Harry"
+              },
+              {
+                  "id": "3",
+                  "answer": "Ron"
+              },
+              {
+                  "id": "4",
+                  "answer": "James"
+              }
+          ]
+      },
+      {
+          "id": "14",
+          "image": "random14.jpg",
+          "question": "Which of these is the only food that doesn't spoil?",
+          "correct": 3,
+          "answers": [
+              {
+                  "id": "1",
+                  "answer": "Apple"
+              },
+              {
+                  "id": "2",
+                  "answer": "Pizza"
+              },
+              {
+                  "id": "3",
+                  "answer": "Honey"
+              },
+              {
+                  "id": "4",
+                  "answer": "Big Mac Burger"
+              }
+          ]
       }
 
 ]
